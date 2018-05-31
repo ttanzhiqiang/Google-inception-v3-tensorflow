@@ -1,9 +1,7 @@
 # Google-inception-v3-tensorflow
-
-
-# Google-inception-v3-tensorflow
 这个介绍有两个：
 一个是Google-inception-v3-tensorflow
+
 另一个是基于Tensorflow-GPU的cnn-text-classification-tf自建立模型
 Google-inception-v3-tensorflow:
 ![Alt text](https://github.com/ttanzhiqiang/Google-inception-v3-tensorflow/blob/master/Google-inception-v3-tensorflow/car.png)
